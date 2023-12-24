@@ -2,7 +2,7 @@
 www.dio.me
 
 ## Desafio de projeto
-Utilizar os conhecimentos adquiridos no módulo de fundamentos, da trilha .NET da DIO para contruir um sistema de estacionamento.
+Utilizar os conhecimentos adquiridos no módulo de fundamentos, da trilha .NET da DIO para construir um sistema de estacionamento.
 
 
 ## Contexto
